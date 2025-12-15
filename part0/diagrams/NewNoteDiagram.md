@@ -35,5 +35,4 @@ sequenceDiagram
 
     Frontend-->>User: UI shows the saved note (confirmation)
     deactivate Frontend
-
----
+```
